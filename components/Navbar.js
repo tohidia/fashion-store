@@ -40,6 +40,13 @@ export default function NavBar() {
           <Link href="/shop">Shop</Link>
         </li>
         <li>
+        <Link href="/cart">Cart</Link>
+        </li>
+        <li>
+        <Link href="/checkout">Checkout</Link>
+
+        </li>
+        <li>
           <Link href="/sale">On Sale</Link>
         </li>
         <li>

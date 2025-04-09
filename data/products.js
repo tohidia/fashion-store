@@ -86,3 +86,4 @@ export const dressStyles = [
     image: "/images/Gym.jpg",
   },
 ];
+

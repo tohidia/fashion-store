@@ -54,13 +54,3 @@ export default function BrandsSection() {
   );
 }
 
-
-{/* <section className="bg-black text-white py-10 flex justify-center">
-  <div className="flex flex-wrap justify-center gap-10 text-xl font-light">
-    <span>VERSACE</span>
-    <span>ZARA</span>
-    <span>GUCCI</span>
-    <span>PRADA</span>
-    <span>Calvin Klein</span>
-  </div>
-</section> */}
